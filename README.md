@@ -17,8 +17,3 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-<<<<<<< HEAD
-=======
-
->>>>>>> bcdd339988dafaa1ce750c0ac8d856f76bb4bc4d
-# vue-start-project
