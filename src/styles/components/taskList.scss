@@ -1,0 +1,32 @@
+.task-list{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid black;
+    &:last-child{
+        border-bottom: 1px solid black;
+    }
+}
+
+.task-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    border-right: 1px solid black;
+    width: 20%;
+    font-size: 12px;
+     word-break: break-all;
+
+}
+.task-link{
+    color: black;
+    text-decoration: none;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.priority{
+  color: $green;
+}
